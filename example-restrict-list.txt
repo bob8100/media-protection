@@ -1,0 +1,7 @@
+media/evmsprivatemediarestricted/allportal/ admin,faculty,staff;
+media/evmsprivatemediarestricted/allportal/senioradministration/ admin;
+media/evmsprivatemediarestricted/faculty/ faculty,staff;
+media/evmsprivatemediarestricted/student/ student, md2017,faculty;
+media/evmsprivatemediarestricted/senioradministration/ admin;
+media/evmsprivatemediarestricted/staff/ staff;
+media/evmsprivatemediarestricted/residentfellow/ residents;
